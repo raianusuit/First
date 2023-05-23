@@ -1,0 +1,13 @@
+package Hit_1;
+
+import Hit.Pd;
+import Hit.Pd.*;
+
+public class Access {
+	public static void main(String[] args) {
+		Access pd = new Access();
+		Pd pd2 = new Pd();
+		System.out.println(pd2.pub1);
+
+	}
+}
