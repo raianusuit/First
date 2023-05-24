@@ -10,5 +10,6 @@ public class Access {
 		System.out.println(pd2.pub1);
 		System.out.println("this is additional ");
 		System.out.println("assignment");
+		System.out.println("just update");
 	}
 }
